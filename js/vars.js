@@ -8,7 +8,7 @@
 Допускаются русские названия переменных
 Зарезервированные слова:
 
-	var, class, return, implements
+	var, class, return, implements и т.д.
 
 Есть 5 «примитивных» типов: number, string, boolean, null, undefined и объекты object.
 

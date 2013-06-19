@@ -1,0 +1,1 @@
+http://learn.javascript.ru/logical-ops
