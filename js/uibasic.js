@@ -7,5 +7,5 @@ var resultOfPrompt = prompt("How old are you?", '100');
 console.log(resultOfPrompt);
 
 //Confirm
-var resultOfConfirm = confirm("How old are you?", '100');
+var resultOfConfirm = confirm("Do you really want to dele item?");
 console.log(resultOfConfirm);
