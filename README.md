@@ -12,6 +12,7 @@ Base of JavaScript
 7. Break Continue (only outer)
 8. Functions
 9. Recursion and stack
+10. Objects
 
 ### Was not included:
 
